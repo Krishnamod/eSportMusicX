@@ -35,7 +35,7 @@
       "required": true,
       "value": "10"
     },
-    "OWNER_USERNAME_URL {
+    "OWNER_USERNAME_URL": {
       "description": "Feel owner username URL ex. (https://t.me/Caden_OP).",
     }
   }
