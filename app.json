@@ -41,7 +41,7 @@
        "required": true,
      },
      "GROUP_USERNAME": {
-      "description": Feel group username without @",
+      "description": "Feel group username without @",
     }
   }
 }
