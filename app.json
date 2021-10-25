@@ -29,7 +29,7 @@
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true
-      "value": "1801097213"
+      "value": ""
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
