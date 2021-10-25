@@ -34,9 +34,6 @@
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
       "value": "10"
-    },
-    "OWNER_USERNAME_URL": {
-      "description": "Feel owner username URL ex. (https://t.me/Caden_OP).",
     }
   }
 }
