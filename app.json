@@ -2,7 +2,7 @@
   "name": "Patricia",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/HEXOROP/eSportMusicX",
+  "repository": "https://github.com/Krishnacodr/eSportMusicX",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -37,7 +37,7 @@
       "value": "10"
      },
      "OWNER_USERNAME": {
-       "description": "Feel Owner username
+       "description": "Feel Owner username",
        "required": true,
     }
   }
