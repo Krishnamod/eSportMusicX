@@ -16,17 +16,17 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="")
+                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/B_4_BRUTU_RAJPUT")
                   ],[
                     InlineKeyboardButton(
                         "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁❱", url="https://t.me/Caden_world"
                     ),
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=""
+                        "❰𝗚𝗿𝗼𝘂𝗽❱", url="https://t.me/S_4_Sahil"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "❰Owner❱", url=""
+                        "❰Owner❱", url="https://t.me/Caden_OP"
                     )]
             ]
         ),
