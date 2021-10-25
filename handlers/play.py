@@ -152,7 +152,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https:/t.me/@Caden_OP"),
+                            url=f""),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
                             url=f"https://t.me/Caden_world")
@@ -193,7 +193,7 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https://t.me/Caden_OP"),
+                            url=f""),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
                             url=f"https://t.me/Caden_world")
@@ -203,7 +203,7 @@ async def play(_, message: Message):
             )
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/a67094fc4a99bca08114b.jpg"
+            thumb_name = "https://telegra.ph/file/a3e568d88b2b9cab4a95f.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -211,7 +211,7 @@ async def play(_, message: Message):
                         [
                             InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https://t.me/Caden_OP"),
+                            url=f""),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
                             url=f"https://t.me/Caden_world")
@@ -265,7 +265,7 @@ async def play(_, message: Message):
                       
                         InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https://t.me/Caden_OP"),
+                            url=f""),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
                             url=f"https://t.me/Caden_world")
