@@ -37,8 +37,11 @@
       "value": "10"
      },
      "OWNER_USERNAME": {
-       "description": "Feel Owner username",
+       "description": "Feel Owner username without @",
        "required": true,
+     },
+     "GROUP_USERNAME": {
+      "description": Feel group username without @",
     }
   }
 }
