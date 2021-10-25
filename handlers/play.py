@@ -152,10 +152,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Owner📡",
-                            url=f""),
+                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Caden_world")
+                            url=f"https://t.me/S_4_Sahil")
                    
                 ]
             ]
@@ -193,10 +193,10 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                             text="Owner📡",
-                            url=f""),
+                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Caden_world")
+                            url=f"https://t.me/S_4_Sahil")
 
                     ]
                 ]
@@ -211,10 +211,10 @@ async def play(_, message: Message):
                         [
                             InlineKeyboardButton(
                             text="Owner📡",
-                            url=f""),
+                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Caden_world")
+                            url=f"https://t.me/S_4_Sahil")
 
                         ]
                     ]
@@ -265,10 +265,10 @@ async def play(_, message: Message):
                       
                         InlineKeyboardButton(
                             text="Owner📡",
-                            url=f""),
+                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Caden_world")
+                            url=f"https://t.me/S_4_Sahil")
                     ]
                 ]
             )
