@@ -35,13 +35,6 @@
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
       "value": "10"
-     },
-     "OWNER_USERNAME": {
-       "description": "Feel Owner username ex. https://t.me/Caden_OP",
-       "required": true,
-     },
-     "GROUP_USERNAME": {
-      "description": "Feel group username ex. https://t.me/Caden_world",
     }
   }
 }
