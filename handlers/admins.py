@@ -60,7 +60,7 @@ async def stop(_, message: Message):
 @authorized_users_only
 async def skip(_, message: Message):
     if message.chat.id not in callsmusic.pytgcalls.active_calls:
-        await message.reply_text("❗ 𝐍𝐨𝐭𝐡𝐢𝐧𝐠 😔  𝐈𝐬 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 🎶 𝐓𝐨 𝐒𝐤𝐢𝐩 🥀")
+        await message.reply_text("❗ Kuchh Play Ho Hi Nhi Rha Hai To Skip Kya Ghanta Karun😂😂 🥀")
     else:
         callsmusic.queues.task_done(message.chat.id)
 
