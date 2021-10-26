@@ -117,18 +117,18 @@ async def play(_, message: Message):
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "**𝗠𝘂𝘀𝗶𝗰 🎶 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 😎 𝗝𝗼𝗶𝗻𝗲𝗱 𝗧𝗵𝗶𝘀 😉 𝗚𝗿𝘂𝗼𝗽 𝗙𝗼𝗿 𝗣𝗹𝗮𝘆 𝗠𝘂𝘀𝗶𝗰 ❤️🤟**")
+                        message.chat.id, "**𝗠𝘂𝘀𝗶𝗰 🎶 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 😎 𝗝𝗼𝗶𝗻𝗲𝗱 𝗧𝗵𝗶𝘀 😉 𝗚𝗿𝘂𝗼𝗽 𝗙𝗼𝗿 𝗣𝗹𝗮𝘆 𝗠𝘂𝘀𝗶𝗰 ❤️🤟.  हम आ डे🙃 अब बताओ कौन सा गाना सुनोगे😜😜**")
 
                 except UserAlreadyParticipant:
                     pass
                 except Exception:
                     await lel.edit(
-                        f"<b>❰𝗙𝗹𝗼𝗼𝗱 😒 𝗪𝗮𝗶𝘁 𝗘𝗿𝗿𝗼𝗿 😔❱</b>\n𝗛𝗲𝘆 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗨𝘀𝗲𝗿𝗕𝗼𝘁 𝗖𝗼𝘂𝗹𝗱𝗻'𝘁 𝗝𝗼𝗶𝗻 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 𝗗𝘂𝗲 𝗧𝗼 𝗛𝗲𝗮𝘃𝘆 𝗝𝗼𝗶𝗻 𝗥𝗲𝗤𝘂𝗲𝘀𝘁 . 𝗠𝗮𝗸𝗲 𝗦𝘂𝗿𝗲 𝗨𝘀𝗲𝗿𝗕𝗼𝘁 𝗜𝘀 𝗡𝗼𝘁 𝗕𝗮𝗻𝗻𝗲𝗱 😔 𝗜𝗻 𝗚𝗿𝗼𝘂𝗽 𝗔𝗻𝗱 𝗧𝗿𝘆 𝗔𝗴𝗮𝗶𝗻 😎🤟𝗹𝗮𝘁𝗲𝗿 :) ")
+                        f"<b>❰𝗙𝗹𝗼𝗼𝗱 😒 𝗪𝗮𝗶𝘁 𝗘𝗿𝗿𝗼𝗿 😔❱</b>\n𝗛𝗲𝘆 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗨𝘀𝗲𝗿𝗕𝗼𝘁 𝗖𝗼𝘂𝗹𝗱𝗻'𝘁 𝗝𝗼𝗶𝗻 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 𝗗𝘂𝗲 𝗧𝗼 𝗛𝗲𝗮𝘃𝘆 𝗝𝗼𝗶𝗻 𝗥𝗲𝗤𝘂𝗲𝘀𝘁 . 𝗠𝗮𝗸𝗲 𝗦𝘂𝗿𝗲 𝗨𝘀𝗲𝗿𝗕𝗼𝘁 𝗜𝘀 𝗡𝗼𝘁 𝗕𝗮𝗻𝗻𝗲𝗱 😔 𝗜𝗻 𝗚𝗿𝗼𝘂𝗽 𝗔𝗻𝗱 𝗧𝗿𝘆 𝗔𝗴𝗮𝗶𝗻 😎🤟𝗹𝗮𝘁𝗲𝗿। Assistant @Lucyxplayer :) ")
     try:
         await USER.get_chat(chid)
     except:
         await lel.edit(
-            f"<i>❰𝗠𝘂𝘀𝗶𝗰𝗫 ❘ Bot 🚩❱ 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗨𝘀𝗲𝗿𝗕𝗼𝘁 𝗜𝘀 𝗡𝗼𝘁 𝗜𝗻 𝗧𝗵𝗶𝘀 𝗖𝗵𝗮𝘁' 𝗔𝘀𝗸 𝗔𝗱𝗺𝗶𝗻 𝗧𝗼 𝗦𝗲𝗻𝗱 /𝗽𝗹𝗮𝘆 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 𝗙𝗼𝗿 𝗙𝗶𝗿𝘀𝘁 𝗧𝗶𝗺𝗲 𝗧𝗼 𝗔𝗱𝗱 𝗜𝘁 😎🤟</i>")
+            f"<i>❰𝗠𝘂𝘀𝗶𝗰𝗫 ❘ Bot 🚩❱ 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗨𝘀𝗲𝗿𝗕𝗼𝘁 𝗜𝘀 𝗡𝗼𝘁 𝗜𝗻 𝗧𝗵𝗶𝘀 𝗖𝗵𝗮𝘁' 𝗔𝘀𝗸 𝗔𝗱𝗺𝗶𝗻 𝗧𝗼 𝗦𝗲𝗻𝗱 /𝗽𝗹𝗮𝘆 𝗖𝗼𝗺𝗺𝗮𝗻𝗱 𝗙𝗼𝗿 𝗙𝗶𝗿𝘀𝘁 𝗧𝗶𝗺𝗲 𝗧𝗼 𝗔𝗱𝗱 𝗜𝘁 or add my assistant @Lucyxplayer😎🤟</i>")
         return
     
     audio = (message.reply_to_message.audio or message.reply_to_message.voice) if message.reply_to_message else None
@@ -152,10 +152,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
+                            url=f"https://t.me/Caden_OP"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/S_4_Sahil")
+                            url=f"https://t.me/Caden_world")
                    
                 ]
             ]
@@ -193,10 +193,10 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
+                            url=f"https://t.me/Caden_OP"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/S_4_Sahil")
+                            url=f"https://t.me/Caden_world")
 
                     ]
                 ]
@@ -211,10 +211,10 @@ async def play(_, message: Message):
                         [
                             InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
+                            url=f"https://t.me/Caden_OP"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/S_4_Sahil")
+                            url=f"https://t.me/Caden_world")
 
                         ]
                     ]
@@ -228,7 +228,7 @@ async def play(_, message: Message):
     else:
         if len(message.command) < 2:
             return await lel.edit("✌**𝗪𝗵𝗮𝘁'𝘀 𝗧𝗵𝗲 ❤️ 𝗦𝗼𝗻𝗴 🎶 𝗬𝗼𝘂 😎 𝗪𝗮𝗻𝘁 𝗧𝗼 𝗣𝗹𝗮𝘆 🧿🤟**")
-        await lel.edit("🔎 **𝗙𝗶𝗻𝗱𝗶𝗻𝗴 💫 𝗧𝗵𝗲 𝗦𝗼𝗻𝗴 ❤️ ❰𝗲𝗦𝗽𝗼𝗿𝘁 🚬❱...**")
+        await lel.edit("🔎 **𝗙𝗶𝗻𝗱𝗶𝗻𝗴 💫 𝗧𝗵𝗲 𝗦𝗼𝗻𝗴 ❤️ ❰LUCY 🚬❱...**")
         query = message.text.split(None, 1)[1]
         # print(query)
         await lel.edit("🎵 **RUKO JARA SABAR KARO😂😂 🔊**")
@@ -254,7 +254,7 @@ async def play(_, message: Message):
                 
         except Exception as e:
             await lel.edit(
-                "🌸𝗦𝗼𝗻𝗴 𝗡𝗼𝘁 𝗙𝗼𝘂𝗻𝗱 ✌ 𝗦𝗽𝗲𝗹𝗹𝗶𝗻𝗴 𝗣𝗿𝗼𝗯𝗹𝗲𝗺."
+                "🌸𝗦𝗼𝗻𝗴 𝗡𝗼𝘁 𝗙𝗼𝘂𝗻𝗱 ✌ 𝗦𝗽𝗲𝗹𝗹𝗶𝗻𝗴 𝗣𝗿𝗼𝗯𝗹𝗲𝗺. YAAR MUSIC NAME TO SAHI LIKH🤣🤣."
             )
             print(str(e))
             return
@@ -265,10 +265,10 @@ async def play(_, message: Message):
                       
                         InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
+                            url=f"https://t.me/Caden_OP"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/S_4_Sahil")
+                            url=f"https://t.me/Caden_world")
                     ]
                 ]
             )
