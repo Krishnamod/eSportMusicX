@@ -152,10 +152,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https://t.me/Jung_kook_b"),
+                            url=f"https://t.me/Caden_OP"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/join_chat_1")
+                            url=f"https://t.me/Caden_world")
                    
                 ]
             ]
@@ -193,10 +193,10 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https://t.me/Jung_kook_b"),
+                            url=f"https://t.me/Caden_OP"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/join_chat_1")
+                            url=f"https://t.me/Caden_world")
 
                     ]
                 ]
@@ -211,10 +211,10 @@ async def play(_, message: Message):
                         [
                             InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https://t.me/jung_kook_b"),
+                            url=f"https://t.me/OP"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/join_chat_1")
+                            url=f"https://t.me/Caden_world")
 
                         ]
                     ]
@@ -265,10 +265,10 @@ async def play(_, message: Message):
                       
                         InlineKeyboardButton(
                             text="Owner📡",
-                            url=f"https://t.me/jung_kook_b"),
+                            url=f"https://t.me/Caden_OP"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/join_chat_1")
+                            url=f"https://t.me/Caden_world")
                     ]
                 ]
             )
