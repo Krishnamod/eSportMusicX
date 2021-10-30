@@ -151,11 +151,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="Owner📡",
-                            url=f"https://t.me/Caden_OP"),
+                            text="Owner🤴",
+                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Caden_world")
+                            text="Owner's queen 👸",
+                            url=f"https://t.me/attitude_girl_niki")
                    
                 ]
             ]
@@ -192,11 +192,11 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Owner📡",
-                            url=f"https://t.me/Caden_OP"),
+                            text="Owner🤴",
+                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Caden_world")
+                            text="Owner's queen 👸",
+                            url=f"https://t.me/attitude_girl_niki")
 
                     ]
                 ]
@@ -210,11 +210,11 @@ async def play(_, message: Message):
                     [
                         [
                             InlineKeyboardButton(
-                            text="Owner📡",
-                            url=f"https://t.me/OP"),
+                            text="Owner🤴",
+                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Caden_world")
+                            text="Owner's queen 👸",
+                            url=f"https://t.me/attitude_girl_niki")
 
                         ]
                     ]
@@ -264,11 +264,11 @@ async def play(_, message: Message):
                     [
                       
                         InlineKeyboardButton(
-                            text="Owner📡",
-                            url=f"https://t.me/Caden_OP"),
+                            text="Owner🤴",
+                            url=f"https://t.me/B_4_BRUTU_RAJPUT"),
                         InlineKeyboardButton(
-                            text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Caden_world")
+                            text="Owner' queen👸",
+                            url=f"https://t.me/attitude_girl_niki")
                     ]
                 ]
             )
