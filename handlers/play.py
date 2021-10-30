@@ -156,9 +156,6 @@ async def play(_, message: Message):
                         InlineKeyboardButton(
                             text="Owner's queen👸",
                             url=f"https://t.me/attitude_girl_niki")
-                        InlineKeyboardButton(
-                            text="Maker👩‍💻",
-                             url=f"https://t.me/Caden_OP
                    
                 ]
             ]
@@ -199,15 +196,12 @@ async def play(_, message: Message):
                             url=f"https://t.me/B_4_BRUTU_RAJPUT"),
                         InlineKeyboardButton(
                             text="Owner's queen👸",
-                            url=f"https://t.me/attitude_girl_niki")
-                        InlineKeyboardButton(
-                            text=Maker👩‍💻",
-                            url=f"https://t.me/Caden_OP
+                            url=f"https://t.me/attitude_girl_niki") 
                       
                    ]
                 ]
             )
-        except Exception as e:
+        except Exception as e
             title = "NaN"
             thumb_name = "https://telegra.ph/file/a3e568d88b2b9cab4a95f.jpg"
             duration = "NaN"
@@ -220,10 +214,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/B_4_BRUTU_RAJPUT"),
                         InlineKeyboardButton(
                             text="Owner's queen👸",
-                            url=f"https://t.me/attitude_girl_niki")
-                        InlineKeyboardButton(
-                            text="Maker👩‍💻",
-                            url=f"https://t.me/Caden_OP
+                            url=f"https://t.me/attitude_girl_niki"),
 
                         ]
                     ]
@@ -278,9 +269,8 @@ async def play(_, message: Message):
                         InlineKeyboardButton(
                             text="Owner's queen👸",
                             url=f"https://t.me/attitude_girl_niki")
-                        InlineKeyboardButton(
-                            text="Maker👩‍💻",
-                            url=f"https://t.me/Caden_OP
+                       
+
                     ]
                 ]
             )
