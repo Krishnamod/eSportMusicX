@@ -151,11 +151,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="OWNER👸",
-                            url=f"https://t.me/Advika_29"),
-                        InlineKeyboardButton(
-                            text="OWNER'S BF🤴",
-                            url=f"https://t.me/Caden_OP")
+                            text="GROUP🔥",
+                            url=f"https://t.me/Caden_world")
                    
                 ]
             ]
@@ -192,11 +189,8 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="OWNER👸",
-                            url=f"https://t.me/Advika_29"),
-                        InlineKeyboardButton(
-                            text="OWNER'S BF🤴,
-                            url=f"https://t.me/Caden_OP") 
+                            text="GROUP🔥,
+                            url=f"https://t.me/Caden_world") 
                       
                    ]
                 ]
@@ -210,11 +204,8 @@ async def play(_, message: Message):
                     [
                         [
                             InlineKeyboardButton(
-                            text="OWNER👸",
-                            url=f"https://t.me/Advika_29"),
-                        InlineKeyboardButton(
-                            text="OWNER'S BF🤴",
-                            url=f"https://t.me/Caden_OP"),
+                            text="GROUP🔥",
+                            url=f"https://t.me/Caden_world"),
 
                         ]
                     ]
@@ -264,11 +255,8 @@ async def play(_, message: Message):
                     [
                       
                         InlineKeyboardButton(
-                            text="OWNER👸",
-                            url=f"https://t.me/Advika_29"),
-                        InlineKeyboardButton(
-                            text="OWNER'S BF🤴",
-                            url=f"https://t.me/Caden_OP")
+                            text="GROUP 🔥",
+                            url=f"https://t.me/Caden_world")
                        
 
                     ]
